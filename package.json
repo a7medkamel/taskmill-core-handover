@@ -1,5 +1,5 @@
 {
-  "name": "taskmill-core-handover",
+  "name": "taskmill-core-relay-registry",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/a7medkamel/taskmill-core-handover.git"
+    "url": "git+https://github.com/a7medkamel/taskmill-core-relay-registry.git"
   },
   "author": "a7medkamel <ak@ahmedkamel.net>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/a7medkamel/taskmill-core-handover/issues"
+    "url": "https://github.com/a7medkamel/taskmill-core-relay-registry/issues"
   },
-  "homepage": "https://github.com/a7medkamel/taskmill-core-handover#readme"
+  "homepage": "https://github.com/a7medkamel/taskmill-core-relay-registry#readme"
 }
